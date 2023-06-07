@@ -1,6 +1,7 @@
 # daylio_imitation
 
 Literally, I made this app with the way imitation from the origin app which is "Daylio"
+"Daylio"というアプリを真似して作りました
 
 <!-- ## Getting Started
 
