@@ -1,6 +1,6 @@
 # daylio_imitation
 
-A new Flutter project.
+Literally, I made this app with the way imitation from the origin app which is "Daylio"
 
 ## Getting Started
 
