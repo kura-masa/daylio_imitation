@@ -4,6 +4,10 @@ Literally, I made this app with the way imitation from the origin app which is "
 
 "Daylio"というアプリを真似して作りました
 
+I used Flutter×Firebase
+
+FlutterとFirebaseを使用しました
+
 <!-- ## Getting Started
 
 This project is a starting point for a Flutter application.
